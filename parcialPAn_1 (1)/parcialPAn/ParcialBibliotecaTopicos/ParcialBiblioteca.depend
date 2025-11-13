@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1699973244 source:c:\users\laboratorios\desktop\parcialbibliotecatopicos_entregable\parcialbibliotecatopicos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Cadena/Cadena.h"
+	"../TDALista/TDALista.h"
+	"../SolucionBibliotecaTopicos/SolucionBiblioteca.h"
+
+1699473948 c:\users\laboratorios\desktop\parcialbibliotecatopicos_entregable\cadena\cadena.h
+	<stddef.h>
+	<stdbool.h>
+
+1699473948 c:\users\laboratorios\desktop\parcialbibliotecatopicos_entregable\tdalista\tdalista.h
+	<stdbool.h>
+	"../Comun/Comun.h"
+	"../TDAListaImplDinamicaVec/TDAListaImplDinamicaVec.h"
+	"../TDAListaImplDinamica/TDAListaImplDinamica.h"
+	"../TDAListaImplDinamicaDoble/TDAListaImplDinamicaDoble.h"
+
+1699473948 c:\users\laboratorios\desktop\parcialbibliotecatopicos_entregable\comun\comun.h
+
+1699473948 c:\users\laboratorios\desktop\parcialbibliotecatopicos_entregable\tdalistaimpldinamicavec\tdalistaimpldinamicavec.h
+	<stddef.h>
+
+1699473948 c:\users\laboratorios\desktop\parcialbibliotecatopicos_entregable\solucionbibliotecatopicos\solucionbiblioteca.h
+	<stdio.h>
+	"Libro.h"
+	"../TDALista/TDALista.h"
+
+1699964474 c:\users\laboratorios\desktop\parcialbibliotecatopicos_entregable\solucionbibliotecatopicos\libro.h
+
+1700537866 source:c:\users\thimar\desktop\facu\segundo ano\topicos\pan\parcialpan\parcialbibliotecatopicos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Cadena/Cadena.h"
+	"../TDALista/TDALista.h"
+	"../SolucionBibliotecaTopicos/SolucionBiblioteca.h"
+
+1699473948 c:\users\thimar\desktop\facu\segundo ano\topicos\pan\parcialpan\cadena\cadena.h
+	<stddef.h>
+	<stdbool.h>
+
+1699473948 c:\users\thimar\desktop\facu\segundo ano\topicos\pan\parcialpan\tdalista\tdalista.h
+	<stdbool.h>
+	"../Comun/Comun.h"
+	"../TDAListaImplDinamicaVec/TDAListaImplDinamicaVec.h"
+	"../TDAListaImplDinamica/TDAListaImplDinamica.h"
+	"../TDAListaImplDinamicaDoble/TDAListaImplDinamicaDoble.h"
+
+1699473948 c:\users\thimar\desktop\facu\segundo ano\topicos\pan\parcialpan\comun\comun.h
+
+1699473948 c:\users\thimar\desktop\facu\segundo ano\topicos\pan\parcialpan\tdalistaimpldinamicavec\tdalistaimpldinamicavec.h
+	<stddef.h>
+
+1699473948 c:\users\thimar\desktop\facu\segundo ano\topicos\pan\parcialpan\solucionbibliotecatopicos\solucionbiblioteca.h
+	<stdio.h>
+	"Libro.h"
+	"../TDALista/TDALista.h"
+
+1700020932 c:\users\thimar\desktop\facu\segundo ano\topicos\pan\parcialpan\solucionbibliotecatopicos\libro.h
+

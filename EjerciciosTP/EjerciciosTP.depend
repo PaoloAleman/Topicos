@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1762906584 source:c:\users\pao_a\downloads\ejerciciostp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.c"
+
+1762906573 c:\users\pao_a\downloads\ejerciciostp\funciones.c
+	"funciones.h"
+
+1762906230 c:\users\pao_a\downloads\ejerciciostp\funciones.h
+
+1762904924 source:c:\users\pao_a\downloads\ejerciciostp\principal.c
+

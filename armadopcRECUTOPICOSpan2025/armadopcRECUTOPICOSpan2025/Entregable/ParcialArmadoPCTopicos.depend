@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1752538643 source:c:\users\laboratorios\desktop\fernandez_mario\2025-07-14_armado_pc_entregable\entregable\main.c
+	<locale.h>
+	<windows.h>
+	<stdio.h>
+	<TiposArmadoPC.h>
+	<SolucionParcialArmadoPC.h>
+
+1750423448 c:\users\laboratorios\desktop\fernandez_mario\2025-07-14_armado_pc_entregable\entregable\include\tiposarmadopc.h
+
+1752438187 c:\users\laboratorios\desktop\fernandez_mario\2025-07-14_armado_pc_entregable\entregable\include\solucionparcialarmadopc.h
+	<Vector.h>
+
+1751575549 c:\users\laboratorios\desktop\fernandez_mario\2025-07-14_armado_pc_entregable\entregable\include\vector.h
+	<stddef.h>
+	<stdbool.h>
+	<Comun.h>
+
+1750423448 c:\users\laboratorios\desktop\fernandez_mario\2025-07-14_armado_pc_entregable\entregable\include\comun.h
+
