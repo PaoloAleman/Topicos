@@ -1,0 +1,3 @@
+Generara codigo para calcular las triangulares absolutas.
+Mostrar la matriz en espiral
+Armar la funcion de producto matricial

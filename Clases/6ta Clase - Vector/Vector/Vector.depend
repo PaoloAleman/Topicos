@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1758809279 source:c:\users\laboratorios\desktop\vector\vector.c
+	"vector.h"
+
+1758803192 c:\users\laboratorios\desktop\vector\vector.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
