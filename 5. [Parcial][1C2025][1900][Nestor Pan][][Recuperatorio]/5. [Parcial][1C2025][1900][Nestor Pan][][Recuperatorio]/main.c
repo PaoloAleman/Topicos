@@ -29,9 +29,9 @@ void vectorDestruir_alu(Vector* vec);
 
 int main(int argc, char* argv[])
 {
-    setlocale(LC_ALL, "spanish");	// Cambiar locale - Suficiente para máquinas Linux
-    SetConsoleCP(1252); 			// Cambiar STDIN -  Para máquinas Windows
-    SetConsoleOutputCP(1252);		// Cambiar STDOUT - Para máquinas Windows
+    setlocale(LC_ALL, "spanish");	// Cambiar locale - Suficiente para mï¿½quinas Linux
+    SetConsoleCP(1252); 			// Cambiar STDIN -  Para mï¿½quinas Windows
+    SetConsoleOutputCP(1252);		// Cambiar STDOUT - Para mï¿½quinas Windows
 
     generarArchivoStockComponentes(argv[ARG_PATH_COMP]);
 
@@ -47,7 +47,7 @@ int main(int argc, char* argv[])
 
     ///*********************************************************************************************************
     int resp = actualizarComponentes(argv[ARG_PATH_COMP], argv[ARG_PATH_ARM_REP]);
-    ///******** Descomente la línea de abajo y comente la de arriba para probar su código **********************
+    ///******** Descomente la lï¿½nea de abajo y comente la de arriba para probar su cï¿½digo **********************
 //    int resp = actualizarComponentes_ALU(argv[ARG_PATH_COMP], argv[ARG_PATH_ARM_REP]);
     ///*********************************************************************************************************
 
@@ -67,7 +67,7 @@ int main(int argc, char* argv[])
 int actualizarComponentes_ALU(const char* pathComponentes, const char* pathArmadoYRep)
 {
 ///	Resolver.
-/// Nota: Resuelva esta, y todas las funciones que necesite, en este archivo. Que será el que debe entregar. No modifique ni entregue otro/s archivos del proyecto.
+/// Nota: Resuelva esta, y todas las funciones que necesite, en este archivo. Que serï¿½ el que debe entregar. No modifique ni entregue otro/s archivos del proyecto.
 /// Agregue el sufijo "_ALU" a todas las funciones que genere.
 
     convertirArmYRepTxtABin_alu(pathArmadoYRep,"ArmadosYReparaciones.dat");
